@@ -113,11 +113,11 @@
 		</config-file>
 
 
-	    <framework src="com.android.support:support-v4:25.+" />
-	    <framework src="com.android.support:appcompat-v7:25.+" />
-	    <framework src="com.github.bumptech.glide:glide:3.7.0" />
-	    <framework src="com.zhihu.android:matisse:0.5.0-alpha4" />
-
+	<framework src="com.github.bumptech.glide:glide:3.7.0" />
+        <framework src="com.zhihu.android:matisse:0.5.0-beta3" />
+        <framework src="com.android.support:support-v4:27.+" />
+        <framework src="com.android.support:appcompat-v7:27.+" />
+		
     	<source-file src="src/android/com/synconset/ImagePicker/ImagePicker.java" target-dir="src/com/synconset" />
 		<source-file src="src/android/com/synconset/ImagePicker/ImgPickerActivity.java" target-dir="src/com/synconset" />
 
